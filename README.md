@@ -3,7 +3,7 @@ receiptbooth
 
 Mobile photo booth using Bluetooth receipt printer and iPad or iPhone
 
-The idea is to take 576pixel wide black adn white(no greyscale) images that will be directly printed to a thermal receipt printer.
+The idea is to take 576pixel wide black and white(no greyscale) images that will be directly printed to a thermal receipt printer.
 
 The buttons on the left select the effect to apply and the "Print" button sends it to the printer and also saves it to the camera roll.
 
